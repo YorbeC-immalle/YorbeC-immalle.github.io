@@ -1,11 +1,14 @@
 article{
     background-color: white;
     color: white;
+    float:right;
+    width:500px;
 }
 nav{
     background-color: red;
     color: white;
     float:left;
+    width: 200px;
 }
 section{
     background-color: red;
@@ -13,6 +16,7 @@ section{
 }
 body{
     font-family: 'Arial';
-    width: 1000px;
+    width: 700px;
     margin: auto;
+    
 }
