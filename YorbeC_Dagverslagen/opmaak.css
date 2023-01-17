@@ -8,4 +8,10 @@ nav{
 }
 section{
     background-color: red;
+    border-radius: 20px;
+}
+body{
+    font-family: 'Arial';
+    width: 1000px;
+    margin: auto;
 }
