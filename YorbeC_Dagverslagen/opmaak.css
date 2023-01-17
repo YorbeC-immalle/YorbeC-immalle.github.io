@@ -5,6 +5,7 @@ article{
 nav{
     background-color: red;
     color: white;
+    float:left;
 }
 section{
     background-color: red;
