@@ -1,22 +1,39 @@
 article{
+    margin-top:10%;
     background-color: white;
     color: white;
-    float:right;
-    width:500px;
+    width:90%;
+    margin-left:10%;
 }
 nav{
     background-color: red;
     color: white;
-    float:left;
-    width: 200px;
+    padding:10px;
+    position:fixed;
+    top:0px;
+    width:100%;
+    border: solid 10px black;
+    
 }
 section{
     background-color: red;
     border-radius: 20px;
+    padding: 10px;
+    margin-top:20px;
 }
 body{
     font-family: 'Arial';
-    width: 700px;
     margin: auto;
     
+}
+li.nav{
+display:inline;
+
+}
+nav a{
+    border: solid 5px black;
+    border-radius:10px;
+    background-color: white;
+    color:red;
+    padding:3px;
 }
