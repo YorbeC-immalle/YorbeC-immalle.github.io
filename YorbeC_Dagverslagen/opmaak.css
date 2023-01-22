@@ -13,7 +13,6 @@ nav{
     top:0px;
     width:100%;
     border: solid 10px black;
-    
 }
 section{
     background-color: red;
@@ -28,15 +27,21 @@ body{
 }
 li.nav{
 display:inline;
-
 }
-nav a{
+
+h1{
+    text-decoration: underline;
+}
+.nav{
     border: solid 5px black;
     border-radius:10px;
     background-color: white;
     color:red;
+    text-align:center;
+    text-decoration: none;
     padding:3px;
 }
-h1{
-    text-decoration: underline;
+.Foto{
+    display: block;
+    text-align: center;
 }
