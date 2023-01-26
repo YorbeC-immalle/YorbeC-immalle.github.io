@@ -1,18 +1,15 @@
 article{
     margin-top:10%;
-    background-color: white;
     color: white;
     margin-left:10%;
     margin-right: 10%;
 }
 nav{
-    background-color: red;
-
+    background-color: darkred;
     padding:10px;
     position:fixed;
     top:0px;
     width:100%;
-    border: solid 10px black;
 }
 section{
     background-color: red;
@@ -23,7 +20,6 @@ section{
 body{
     font-family: 'Arial';
     margin: auto;
-    
 }
 li.nav{
 display:inline;
@@ -36,14 +32,7 @@ h1{
     border: solid 5px black;
     border-radius:10px;
     background-color: white;
-    color:red;
-    text-align:center;
-    text-decoration: none;
     padding:3px;
-}
-.Foto{
-    display: block;
-    text-align: center;
 }
 aside{
     float:right;
